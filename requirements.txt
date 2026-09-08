@@ -21,3 +21,10 @@ dotenv
 langchain_google_genai
 langchain_groq
 langgraph
+# for the finetunning the model required some library here all are 
+peft
+bitsandbytes
+transformers
+accelerate
+trl
+Pymupdf
