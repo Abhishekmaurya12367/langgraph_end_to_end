@@ -28,3 +28,4 @@ transformers
 accelerate
 trl
 Pymupdf
+hi
